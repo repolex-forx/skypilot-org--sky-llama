@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "skypilot-org",
+  "repo": "sky-llama",
+  "versions": [
+    {
+      "commit": "b2d8e2f0c8ede6c972dcbf16c7ab5c70bc38aaac",
+      "parsed_at": "2026-11-08T06:33:47.047227+00:00",
+      "filetree": "filetree/b2d8e2f0c8ede6c972dcbf16c7ab5c70bc38aaac.nq.gz",
+      "blobs": [
+        "blob/346a59662db27f0fb7bbba580bcd697eac4d0408.nq.gz",
+        "blob/56a83acfd0f225d47902122cb7b6c67b5b76d47d.nq.gz",
+        "blob/098899a06781a90594acdb1ece680f721e63f52f.nq.gz",
+        "blob/492c34fa2414e744e46ab92adc44077b65199fe4.nq.gz",
+        "blob/883fb11b32bc4a19ae162f1cc869e82ce32a43b9.nq.gz",
+        "blob/e572aa563704840af907dcaa99c1c6a10d7966ab.nq.gz",
+        "blob/13df309d1ed8f5db2c3055915036b08efb77fd23.nq.gz",
+        "blob/edf617213d8d1b1cb9b095c5b74e11c664a6fb87.nq.gz",
+        "blob/953cce9a3dbd5307502fa23e2cca875dcbd17bc6.nq.gz",
+        "blob/8d2fb6c0c64ca8e54e85b055724d3d5b39ca29ef.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
