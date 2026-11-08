@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/skypilot-org/sky-llama/commit/b2d8e2f0c8ede6c972dcbf16c7ab5c70bc38aaac",
       "git:hexsha": "b2d8e2f0c8ede6c972dcbf16c7ab5c70bc38aaac",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
