@@ -1,0 +1,11 @@
+{
+  "org": "skypilot-org",
+  "repo": "sky-llama",
+  "versions": [
+    {
+      "commit": "b2d8e2f0c8ede6c972dcbf16c7ab5c70bc38aaac",
+      "tag": "",
+      "parsed_at": "2026-11-08T06:36:04.295692+00:00"
+    }
+  ]
+}
